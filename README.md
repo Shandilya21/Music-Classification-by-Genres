@@ -1,6 +1,5 @@
-# GenresClassificationUsing-k-NN-and-SVM
-Music Genres Classification using two different models i.e.,  SVM and k-NN algorithms
- Music Genre Classification of (au) File using SVM and k-NN Classification
+# Music Genres Classification Using- Neural Networks
+
 
 Abstract. This project was primarily aimed to create an automated
 system for classification model for music genres. The first step included
@@ -12,6 +11,7 @@ classifiers were trained and used to classify, each yielding varying
 degrees of accuracy in prediction. An ensemble classifier based on majority
 voting was then created to incorporate all of the classifiers into
 one.
+
 Key words: music, genre, classification, MFCC, GTZAN genre dataset
 
 
@@ -30,5 +30,4 @@ Music genre classification is widely discussed in the MIR (Music Information Ret
  has been of interest for a variety of reasons, including management of large music collections.
 The main purpose of this project was to implement few classification algorithms and compare their
  performance when applied to a practical problem. Specifically, we performed music genre
- classification of songs on a dataset containing 100 songs from 10 different genres.The two classification 
-algorithms were used to classifies are : SVM and k -NN classification.
+ classification of songs on a dataset containing 100 songs from 10 different genres.
