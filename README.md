@@ -1,4 +1,4 @@
-# Music Genres Classification Using- Neural Networks
+# Music Genres Classification Using- Support Vector Machines
 
 
 Abstract. This project was primarily aimed to create an automated
