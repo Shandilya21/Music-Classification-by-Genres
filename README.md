@@ -1,4 +1,4 @@
-# Music Genres Classification Using- Support Vector Machines
+# Music Classification by Genres
 
 
 Abstract. This project was primarily aimed to create an automated
