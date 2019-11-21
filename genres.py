@@ -5,17 +5,12 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import sunau
 
-
-
-
-
 rootDir="//home//arunav//Downloads//genres//"
 genres_names=os.listdir(rootDir)
 
 X=[]
 Y=[]
 ctr=0
-
 
 def get_Info(full_file_path):
 	s=sunau.open(full_file_path,'rb')
@@ -46,8 +41,3 @@ for root in genres_names:
 		print Time
 	
 		get_Info(full_file_path)
-	
-
-	
-
-
